@@ -25,3 +25,5 @@ for i in x:
 
 # https://docs.python.org/3/library/os.html
 #вывести все файлы из папки, у которых расширение mp4, вывести рядом с их названием размер файла.
+# install git: https://git-scm.com/download/win
+# github: https://github.com/AShlyaeva/my_python_lessons
